@@ -1,0 +1,9 @@
+{
+  "test": {
+    "pairs": 206,
+    "sizes_width_x_height": {
+      "800x600": 206
+    },
+    "foreground_fraction": 0.0031955906148867313
+  }
+}

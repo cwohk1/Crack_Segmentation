@@ -1,0 +1,35 @@
+[
+  {
+    "dataset": "deepcrack",
+    "url": "https://codeload.github.com/yhlleo/DeepCrack/zip/refs/heads/master",
+    "official_source": "https://github.com/yhlleo/DeepCrack",
+    "archive": "datasets/deepcrack/source.zip",
+    "bytes": 73547499,
+    "sha256": "1b9ba2d987fdee010b081d89bd787f865c045a4bf007e27b6f45880bc841c082",
+    "zip_comment": "8202a60701068645c883ed68b95fd3f30914d90c",
+    "download_date": "2026-09-26",
+    "zip_crc_verified": true
+  },
+  {
+    "dataset": "cfd",
+    "url": "https://codeload.github.com/cuilimeng/CrackForest-dataset/zip/refs/heads/master",
+    "official_source": "https://github.com/cuilimeng/CrackForest-dataset",
+    "archive": "datasets/cfd/source.zip",
+    "bytes": 10125055,
+    "sha256": "e502a2a91a3cd8cab382bd22bfc6732756a4f398e4931ef4a0d2fc9e4cd4000f",
+    "zip_comment": "ed57c2d96754e6c7d105805cd29aeeb3a799f267",
+    "download_date": "2026-09-26",
+    "zip_crc_verified": true
+  },
+  {
+    "dataset": "fphbn",
+    "url": "https://drive.google.com/file/d/13_vDYl54Mrd34dddX9w4ppAEiuWv4MlD/view",
+    "official_source": "https://github.com/fyangneil/pavement-crack-detection",
+    "archive": "datasets/fphbn/source.zip",
+    "bytes": 1980983618,
+    "sha256": "2a75847f15a4384ca37fe1b0b0cb70fb50189354638b6590d2331e5284f6b075",
+    "zip_comment": "",
+    "download_date": "2026-09-26",
+    "zip_crc_verified": true
+  }
+]

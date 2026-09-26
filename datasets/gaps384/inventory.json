@@ -1,0 +1,10 @@
+{
+  "test": {
+    "pairs": 509,
+    "sizes_width_x_height": {
+      "540x640": 281,
+      "540x440": 228
+    },
+    "foreground_fraction": 0.011912624003215093
+  }
+}

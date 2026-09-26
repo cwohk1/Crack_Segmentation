@@ -1,0 +1,17 @@
+{
+  "test": {
+    "pairs": 237,
+    "sizes_width_x_height": {
+      "384x544": 47,
+      "544x384": 190
+    },
+    "foreground_fraction": 0.04327073945018408
+  },
+  "train": {
+    "pairs": 300,
+    "sizes_width_x_height": {
+      "544x384": 300
+    },
+    "foreground_fraction": 0.02912741268382353
+  }
+}
