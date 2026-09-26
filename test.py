@@ -53,7 +53,7 @@ def main():
     config = checkpoint['config']
     model = build_model(config['model']).to(device)
     model.load_state_dict(checkpoint['model'])
-    run_dir = Path('Codex/runs') / args.weight.parent.name
+    run_dir = args.weight.parent
     if args.input:
         predict(model, args.input, args.output or run_dir/'predictions',
                 config['size'], device, args.threshold)

@@ -1,12 +1,15 @@
 .venv*/
 __pycache__/
 .pytest_cache/
+.env
+.cache/
 models/weights/*
-Codex/runs/*
-!Codex/runs/test_pipeline.py
+Codex/*.log
+Codex/refactor_weights.json
 datasets/**/raw/
 datasets/**/prepared/
 datasets/**/*.zip
 datasets/**/*.zip.part
 datasets/**/*.tar*
 datasets/**/*.pdf
+tmp/
